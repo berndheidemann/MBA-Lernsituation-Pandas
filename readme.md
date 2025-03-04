@@ -121,7 +121,6 @@ Der Datensatz enthält Informationen von Bachelor-Absolvent*innen, die sich für
 1. Zähle, wie oft "Entrepreneurship" in Reason for MBA vorkommt.
 2. Extrahiere den ersten Buchstaben aus Undergraduate Major (z. B. "E" für "Engineering").
 3. Erstelle eine neue Spalte, die überprüft, ob der Current Job Title den Begriff **"Manager"** enthält.
-4. Zähle, wie oft der Begriff “Management” in der Spalte Reason for MBA vorkommt, um das Interesse an Führungskompetenzen zu analysieren.
 **Hilfestellungen:**
 
 * Nutze str.contains() für die Suche
