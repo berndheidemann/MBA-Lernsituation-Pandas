@@ -134,9 +134,7 @@ Der Datensatz enthält Informationen von Bachelor-Absolvent*innen, die sich für
 
 2. Ermittle die TOP 3 Gründe für einen MBA (Reason for MBA).
 
-3. Vergleiche die durchschnittliche Gehaltserhöhung zwischen Personen, die eine Top-50-Universität besucht haben, und anderen.
-
-4. Analysiere die Verteilung der Years of Work Experience für Personen, die ein Gehalt von über 200.000 USD nach dem MBA erwarten.
+3. Analysiere die Verteilung der Years of Work Experience für Personen, die ein Gehalt von über 190.000 USD nach dem MBA erwarten.
 
 **Hilfestellungen:**
 
